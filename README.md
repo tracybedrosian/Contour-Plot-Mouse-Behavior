@@ -17,7 +17,7 @@ dens <- kde2d(epm$x, epm$y, n=100)
 filled.contour(dens, color.palette = colorRampPalette
               (c('white', 'blue', 'darkblue')), axes = FALSE, asp = 1)
 ```
-![EPM](EPMRPlot.jpeg?raw=true "EPM")
+![EPM](https://github.com/tracybedrosian/Contour-Plot-Mouse-Behavior/blob/master/EPMRplot.jpeg?raw=true "EPM")
 
 #### 3. Plot open field position data
 
