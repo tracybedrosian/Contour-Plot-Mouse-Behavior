@@ -1,7 +1,7 @@
 # Contour-Plot-Mouse-Behavior
 Constructing a contour plot of XY position data  
 
-Mouse behavioral data generated with BehaviorCloud
+Mouse behavioral data generated with [BehaviorCloud](https://behaviorcloud.com/)
 
 #### 1. Load ```MASS``` package
 
